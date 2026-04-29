@@ -68,4 +68,4 @@ FIM
 
 ---
 *Autor: dinobigodudo*
-*Licence: This project is licensed under the (will add) License. See the LICENSE file for more details.*
+*Licence: This project is licensed under the MIT License. See the LICENSE file for more details.*
