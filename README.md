@@ -69,3 +69,4 @@ FIM
 ---
 *Autor: dinobigodudo*
 *Licence: This project is licensed under the MIT License. See the LICENSE file for more details.*
+*be aware tha this project has AI genereted code in it, but i plan in remaking it from the ground up whem I trust my coding skills, sorry for using Ai :(*
