@@ -71,4 +71,4 @@ FIM
 
 *License: This project is licensed under the MIT License. See the LICENSE file for more details.*
 
-*Be aware that this project has AI-generated code in it, but I plan on remaking it from the ground up when I trust my coding skills; sorry for using AI :
+*Be aware that this project has AI-generated code in it, but I plan on remaking it from the ground up when I trust my coding skills; sorry for using AI :(*
