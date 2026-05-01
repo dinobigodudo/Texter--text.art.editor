@@ -6,7 +6,7 @@ A text art editor built in Python. Currently, Texter is a fully local, Python-ba
 
 ## Features
 
--➕ Create: Create new text art easily* (the creation part is a bit buggy; I'm currently working on a fix).
+- ➕ Create: Create new text art easily* (the creation part is a bit buggy; I'm currently working on a fix).
 - ✨ Viewer: View your artworks in a list-based view.
 - 📝 Editor: Edit the name and content of the artworks in your gallery.
 - ⚙️ Settings: Customize the application's behavior.
