@@ -2,6 +2,21 @@
 
 # Texter 🎨
 
+
+A text art editor built in Python. Currently, Texter is a fully local, Python-based terminal application that lets you create, edit, and manage text art. Artworks are saved in a JSON file, providing a simple way to preserve your creations.
+
+## Features
+
+- ➕ Create: Create new text art easily* (the creation feature is a bit buggy; I'm currently working on a fix).  
+- ✨ Viewer: View your artworks in a list-based view.  
+- 📝 Editor: Edit the name and content of the artworks in your gallery.  
+- ⚙️ Settings: Customize the application's behavior.  
+- 💾 Persistence: All artworks are automatically saved to JSON* (I'm not sure if persistence will work correctly after deployment).  
+
+## How to Use
+
+1. Navigate to the Texter folder and run:
+=======
 A text art editor built in Python. Currently, Texter is a fully local, Python-based terminal application that lets you create, edit, and manage text art. Artworks are saved in a JSON file, providing a[...]  
 
 ## Features
@@ -15,6 +30,7 @@ A text art editor built in Python. Currently, Texter is a fully local, Python-ba
 ## How to Use
 
 1. Run the following program in the Texter folder location:
+
 
 ```bash
 python Texter.py
@@ -71,4 +87,5 @@ FIM
 
 *License: This project is licensed under the MIT License. See the LICENSE file for more details.*
 
-*Be aware that this project has AI-generated code in it, but I plan on remaking it from the ground up when I trust my coding skills; sorry for using AI :*
+*Be aware that this project has AI-generated code in it, but I plan on remaking it from the ground up when I trust my coding skills; sorry for using AI :(*
+
