@@ -20,7 +20,7 @@ A text art editor built in Python. Currently, Texter is a fully local, Python-ba
 python Texter.py
 ```
 
-2. In the main menu, you will se the following options:
+2. In the main menu, you will see the following options:
     - `ver` - View existing artworks
     - `edt` - Edit or delete artworks
     - `new` - Create a new artwork
@@ -63,10 +63,10 @@ FIM
 
 - Artworks are saved in JSON format with UTF-8 encoding
 - You can use any Unicode character in your artworks
-- The program automatically creates the JSON files on the first run* (this is the part I'm still no shure if it works)
+- The program automatically creates the JSON files on the first run* (this is the part I'm still not sure if it works)
 
 
 ---
-*Autor: dinobigodudo*
-*Licence: This project is licensed under the MIT License. See the LICENSE file for more details.*
-*be aware tha this project has AI genereted code in it, but i plan in remaking it from the ground up whem I trust my coding skills, sorry for using Ai :(*
+*Author: dinobigodudo*
+*License: This project is licensed under the MIT License. See the LICENSE file for more details.*
+*Be aware that this project has AI-generated code in it, but I plan on remaking it from the ground up when I trust my coding skills; sorry for using AI :(*
