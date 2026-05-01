@@ -2,15 +2,15 @@
 
 # Texter 🎨
 
-A text art editor built in Python. Currently, Texter is a fully local, Python-based terminal application that lets you create, edit, and manage text art. Artworks are saved in a JSON file, providing a persistent library for your creations.
+A text art editor built in Python. Currently, Texter is a fully local, Python-based terminal application that lets you create, edit, and manage text art. Artworks are saved in a JSON file, providing a[...]  
 
 ## Features
 
-- ➕ Create: Create new text art easily* (the creation part is a bit buggy; I'm currently working on a fix).
-- ✨ Viewer: View your artworks in a list-based view.
-- 📝 Editor: Edit the name and content of the artworks in your gallery.
-- ⚙️ Settings: Customize the application's behavior.
-- 💾 Persistence: All artworks are automatically saved to JSON* (I'm not sure if it will keep working after uploading).
+- ➕ Create: Create new text art easily* (the creation part is a bit buggy; I'm currently working on a fix).  
+- ✨ Viewer: View your artworks in a list-based view.  
+- 📝 Editor: Edit the name and content of the artworks in your gallery.  
+- ⚙️ Settings: Customize the application's behavior.  
+- 💾 Persistence: All artworks are automatically saved to JSON* (I'm not sure if it will keep working after uploading).  
 
 ## How to Use
 
@@ -20,19 +20,19 @@ A text art editor built in Python. Currently, Texter is a fully local, Python-ba
 python Texter.py
 ```
 
-2. In the main menu, you will see the following options:
-    - `ver` - View existing artworks
-    - `edt` - Edit or delete artworks
-    - `new` - Create a new artwork
-    - `cfg` - Access settings
+2. In the main menu, you will see the following options:  
+    - `ver` - View existing artworks  
+    - `edt` - Edit or delete artworks  
+    - `new` - Create a new artwork  
+    - `cfg` - Access settings  
     - `exit` - Exit the program
 
 3. Just type the command for the action you want to perform.
 
 ## File Structure
 
-- `Texter.py` - Main application file
-- `artes.json` - Database of created artworks
+- `Texter.py` - Main application file  
+- `artworks.json` - Database of created artworks  
 - `configs.json` - Application settings
 
 ## Requirements
@@ -71,4 +71,4 @@ FIM
 
 *License: This project is licensed under the MIT License. See the LICENSE file for more details.*
 
-*Be aware that this project has AI-generated code in it, but I plan on remaking it from the ground up when I trust my coding skills; sorry for using AI :(*
+*Be aware that this project has AI-generated code in it, but I plan on remaking it from the ground up when I trust my coding skills; sorry for using AI :*
